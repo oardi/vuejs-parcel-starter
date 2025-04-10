@@ -9,15 +9,14 @@
 		"start": "parcel ./src/index.html --port 8080 --open"
 	},
 	"dependencies": {
-		"vue": "3.2.47",
-		"vue-hot-reload-api": "2.3.4"
+		"vue": "3.5.13"
 	},
 	"devDependencies": {
-		"@parcel/transformer-vue": "^2.8.3",
+		"@parcel/transformer-vue": "^2.14.4",
 		"@vue/component-compiler-utils": "3.3.0",
-		"cssnano": "6.0.0",
-		"rimraf": "^5.0.0",
-		"sass": "1.62.0",
-		"vue-template-compiler": "2.7.14"
+		"cssnano": "7.0.6",
+		"rimraf": "6.0.1",
+		"sass": "1.86.3",
+		"vue-template-compiler": "2.7.16"
 	}
 }

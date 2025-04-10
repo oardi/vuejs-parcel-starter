@@ -1,5 +1,5 @@
 <template>
-	<div class="container">
+	<div class="text-blue">
 		{{ title }}
 	</div>
 </template>
@@ -15,7 +15,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.container {
+.text-blue {
 	color: blue;
 }
 </style>
